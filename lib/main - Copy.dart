@@ -5,5 +5,5 @@ void main() {
   runApp(MyApp());
 }
 
-class MyApp extends StatelessW
+class MyApp extends Stateless
 
