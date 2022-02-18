@@ -5,5 +5,5 @@ void main() {
   runApp(MyApp());
 }
 
-class MyApp extends StatelessWidge
+class MyApp extends StatelessWidg
 
