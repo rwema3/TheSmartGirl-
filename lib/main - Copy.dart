@@ -5,5 +5,5 @@ void main() {
   runApp(MyApp());
 }
 
-class MyApp extends StatelessWid
+class MyApp extends StatelessWi
 
