@@ -5,5 +5,5 @@ void main() {
   runApp(MyApp());
 }
 
-class MyApp extends StatelessWidg
+class MyApp extends StatelessWid
 
