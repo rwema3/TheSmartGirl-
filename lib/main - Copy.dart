@@ -16,5 +16,5 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.deepOrange,
         brightness: Brightness.light,
       ),
-      home
+      hom
 
