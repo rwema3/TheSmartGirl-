@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tinder_clone/tabs_pag
+import 'package:tinder_clone/tabs_pa
 
 
 
