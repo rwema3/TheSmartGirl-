@@ -7,12 +7,4 @@ void main() {
 
 class MyApp extends StatelessWidget {
   @override
-  Widget build(BuildContext contex
-
-
-
-
-
-
-
-
+  Widget build(BuildContext cont
