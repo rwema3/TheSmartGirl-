@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tinder_
+import 'package:tinde
 
 
 
