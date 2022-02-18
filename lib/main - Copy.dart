@@ -4,4 +4,4 @@ import 'package:tinder_clone/tabs_page.dart';
 void main() {
   runApp(MyApp());
 }
-class MyApp extends State
+class MyApp extends Stat
