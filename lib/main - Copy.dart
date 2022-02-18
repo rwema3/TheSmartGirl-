@@ -6,5 +6,5 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  @overrid
+  @overri
   Widget build(B
