@@ -15,6 +15,5 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Lato',
         primarySwatch: Colors.deepOrange,
         brightness: Brightness.light,
-      )
-      h
+
 
