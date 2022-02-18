@@ -14,6 +14,6 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         fontFamily: 'Lato',
         primarySwatch: Colors.deepOrange,
-        brightness: Brightness
+        brightness: Brightnes
 
 
